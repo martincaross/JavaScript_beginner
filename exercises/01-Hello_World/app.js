@@ -1,2 +1,3 @@
 //your code below
-console.log("Hello World");
+var color = 'red'
+console.log(color);
